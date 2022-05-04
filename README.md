@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Khalifa</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed7khalifa&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed7khalifa" /> </p>
 
 - 🌱 I’m currently learning **.Net**
 
