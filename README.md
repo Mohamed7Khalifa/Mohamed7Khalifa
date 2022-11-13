@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Java, web technologies, react-native**
 
-- 📫 How to reach me **MHMD7Khalifa@gmail.com**
+- 📫 How to reach me **m.khalifa.othman@gmail.com**
 
 - ⚡ Fun fact **My brain works like microprocessor**
 
