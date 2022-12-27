@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
 
-- 🌱 I’m currently learning **.Net**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Java, web technologies, react-native**
 
